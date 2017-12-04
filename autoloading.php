@@ -15,6 +15,8 @@
  * Sin embargo, si el espacio de nombre y la ruta del archivo coinciden sí
  * funcionará.
  *
+ * ATENCIÓN: No cumple con el estándar PSR-4.
+ *
  * Esta función recibe como parámetro un callable, y por defecto recibe
  * lo siguiente:
  *
